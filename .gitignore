@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+cp/
+
+.idea
+.vscode
+.DS_Store
