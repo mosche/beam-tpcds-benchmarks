@@ -1,0 +1,29 @@
+
+TPC-DS Query Execution Summary:
+
+
++--------------+------------------------------+--------------+------------+--------------+----------------------------------+----------------------------------+----------------------+
+|  Query Name  |           Job Name           |  Data Size   |  Dialect   |    Status    |            Start Time            |             End Time             |  Elapsed Time(sec)   |
++--------------+------------------------------+--------------+------------+--------------+----------------------------------+----------------------------------+----------------------+
+|    query3    |  query3result1684267373050   |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:02:57 CEST 2023   |  Tue May 16 22:03:11 CEST 2023   |        14.319        |
+|    query7    |  query7result1684267377048   |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:03:11 CEST 2023   |  Tue May 16 22:03:35 CEST 2023   |        24.587        |
+|   query10    |  query10result1684267377828  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:03:35 CEST 2023   |  Tue May 16 22:04:04 CEST 2023   |        28.296        |
+|   query25    |  query25result1684267378875  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:04:04 CEST 2023   |  Tue May 16 22:04:30 CEST 2023   |        26.659        |
+|   query26    |  query26result1684267381130  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:04:30 CEST 2023   |  Tue May 16 22:04:45 CEST 2023   |        14.647        |
+|   query29    |  query29result1684267381850  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:04:45 CEST 2023   |  Tue May 16 22:05:10 CEST 2023   |        25.224        |
+|   query35    |  query35result1684267384250  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:05:10 CEST 2023   |  Tue May 16 22:05:35 CEST 2023   |        24.896        |
+|   query40    |  query40result1684267384962  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:05:35 CEST 2023   |  Tue May 16 22:05:46 CEST 2023   |        11.057        |
+|   query42    |  query42result1684267385762  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:05:46 CEST 2023   |  Tue May 16 22:05:56 CEST 2023   |        9.667         |
+|   query43    |  query43result1684267386330  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:05:56 CEST 2023   |  Tue May 16 22:06:06 CEST 2023   |        9.664         |
+|   query52    |  query52result1684267386799  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:06:06 CEST 2023   |  Tue May 16 22:06:15 CEST 2023   |        8.937         |
+|   query55    |  query55result1684267387447  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:06:15 CEST 2023   |  Tue May 16 22:06:24 CEST 2023   |        9.494         |
+|   query69    |  query69result1684267387940  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:06:24 CEST 2023   |  Tue May 16 22:06:48 CEST 2023   |        24.125        |
+|   query79    |  query79result1684267388833  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:06:48 CEST 2023   |  Tue May 16 22:07:06 CEST 2023   |        18.342        |
+|   query83    |  query83result1684267389423  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:07:06 CEST 2023   |  Tue May 16 22:07:12 CEST 2023   |        5.122         |
+|   query84    |  query84result1684267391759  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:07:12 CEST 2023   |  Tue May 16 22:07:17 CEST 2023   |        5.905         |
+|   query87    |  query87result1684267392474  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:07:17 CEST 2023   |  Tue May 16 22:07:33 CEST 2023   |        15.54         |
+|   query93    |  query93result1684267393129  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:07:33 CEST 2023   |  Tue May 16 22:07:55 CEST 2023   |        22.423        |
+|   query96    |  query96result1684267394446  |     1GB      |  Calcite   |  Successful  |  Tue May 16 22:07:55 CEST 2023   |  Tue May 16 22:08:06 CEST 2023   |        10.296        |
++--------------+------------------------------+--------------+------------+--------------+----------------------------------+----------------------------------+----------------------+
+
+

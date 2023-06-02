@@ -1,0 +1,18 @@
+      772.64 real      1275.21 user        20.04 sys
+          5249748992  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+             1638690  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                  60  messages sent
+                  62  messages received
+                 410  signals received
+                 220  voluntary context switches
+             2474905  involuntary context switches
+       8360188212420  instructions retired
+       5232871048196  cycles elapsed
+          4968759296  peak memory footprint

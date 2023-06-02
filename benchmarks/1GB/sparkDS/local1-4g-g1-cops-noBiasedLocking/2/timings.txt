@@ -1,0 +1,18 @@
+      533.96 real      1002.27 user        16.22 sys
+          5313683456  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+             1677718  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                  52  messages sent
+                  54  messages received
+                 203  signals received
+                 254  voluntary context switches
+              708734  involuntary context switches
+       6402364896587  instructions retired
+       4085306063356  cycles elapsed
+          5071745024  peak memory footprint
